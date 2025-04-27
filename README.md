@@ -2,7 +2,7 @@
 
 This project presents an in-depth **UPI Transaction Dashboard** built in **Power BI**, focused on analyzing transaction patterns, remaining balances, and trends over time across different cities.
 
-![page 1 preview](UPI_page_1)
+![page 1 preview](UPI_page_1.mp4)
 
 ![page 2 preview]()
 
