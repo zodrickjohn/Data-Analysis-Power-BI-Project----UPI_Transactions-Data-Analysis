@@ -1,8 +1,14 @@
-# UPI Transactions Data Analysis - Power BI Dashboard
+# Data Analysis Power BI Project - UPI Transactions Analysis
 
 This project presents an in-depth **UPI Transaction Dashboard** built in **Power BI**, focused on analyzing transaction patterns, remaining balances, and trends over time across different cities.
 
-![page 1 preview](UPI_page_1.mp4)
+![Page_1_transaction_column](Page_1_transaction_column.png)
+
+![Page_1_transaction_line](Page_1_transaction_line.png)
+
+![Page_1_remaining_balance_line](Page_1_remaining_balance_line.png)
+
+![Page_1_remaining_balance_column](Page_1_remaining_balance_column.png)
 
 ---
 
