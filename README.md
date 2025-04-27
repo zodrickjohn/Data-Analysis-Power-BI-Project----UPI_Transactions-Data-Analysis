@@ -4,8 +4,6 @@ This project presents an in-depth **UPI Transaction Dashboard** built in **Power
 
 ![page 1 preview](UPI_page_1.mp4)
 
-![page 2 preview]()
-
 ---
 
 ## 📊 What This Dashboard Includes:
