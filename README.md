@@ -11,12 +11,15 @@ This project presents an in-depth **UPI Transaction Dashboard** built in **Power
 ![Page_1_transaction_column](Page_1_transaction_column.png)
 
 *Page 1 with Remaining Balance Line Chart*
+
 ![Page_1_remaining_balance_line](Page_1_remaining_balance_line.png)
 
 *Page 1 with Remaining Balance Column Chart*
+
 ![Page_1_remaining_balance_column](Page_1_remaining_balance_column.png)
 
 *Page 2*
+
 ![Page_2.](Page_2.png)
 
 ---
