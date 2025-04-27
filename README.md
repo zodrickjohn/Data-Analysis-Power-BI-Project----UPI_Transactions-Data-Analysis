@@ -3,15 +3,17 @@
 This project presents an in-depth **UPI Transaction Dashboard** built in **Power BI**, focused on analyzing transaction patterns, remaining balances, and trends over time across different cities.
 
 *Page 1 with Transaction Line Chart*
+
 ![Page_1_transaction_line](Page_1_transaction_line.png)
 
 *Page 1 with Transaction Column Chart*
+
 ![Page_1_transaction_column](Page_1_transaction_column.png)
 
-*Page 1 with Remaining Line Chart*
+*Page 1 with Remaining Balance Line Chart*
 ![Page_1_remaining_balance_line](Page_1_remaining_balance_line.png)
 
-*Page 1 with Remaining Column Chart*
+*Page 1 with Remaining Balance Column Chart*
 ![Page_1_remaining_balance_column](Page_1_remaining_balance_column.png)
 
 *Page 2*
