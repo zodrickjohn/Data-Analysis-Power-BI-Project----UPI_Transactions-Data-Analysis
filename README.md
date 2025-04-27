@@ -24,7 +24,7 @@ This project presents an in-depth **UPI Transaction Dashboard** built in **Power
 
 ---
 
-## 📊 What This Dashboard Includes:
+## 📊 What I did in this project :
 1. **Data Modeling & Cleaning**
    - Imported raw UPI transaction data into Power BI.
    - Cleaned and transformed the data using Power Query Editor.
